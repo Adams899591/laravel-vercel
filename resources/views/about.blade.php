@@ -10,8 +10,8 @@
 </head>
 <body>
     
-    <h1>This is the welcome page</h1>
-    <a href="{{url("/about")}}">To about page</a>
+    <h1>This is the About page</h1>
+    <a href="{{url("/")}}">To WElcome page</a>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis ea
          sed, animi rem laudantium assumenda explicabo id suscipit nostrum adipisci, even
         iet excepturi fugit magni. Doloremque eligendi illo accusamus id ducimus.</p>
